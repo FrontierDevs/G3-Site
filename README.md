@@ -1,4 +1,4 @@
-<img src="/logo.png" height="128" width="128" align="left">Genisys3 - FULLY UPLOADED
+<img src="/logo.png" height="128" width="128" align="left">Genisys3 Website - FULLY UPLOADED
 -------------
 
 __Genisys, but better than anytime before__
